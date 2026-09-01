@@ -306,13 +306,6 @@ is part of the process.
   alt="GitHub Statistics"
 />
 
-<br><br>
-
-<img
-  src="https://ghstats.dev/api/languages?username=65kshat&theme=tokyonight"
-  alt="Top Languages"
-/>
-
 </div>
 
 ---

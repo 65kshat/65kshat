@@ -1,179 +1,310 @@
-```markdown
 <div align="center">
-  
-  # 👋 Hi, I'm Akshat Sohani
-  
-  ### 🤖 AI/ML Engineer | Computer Vision Specialist | Data Scientist
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Enthusiast;Deep+Learning+Practitioner;Open+Source+Contributor;AI+Solution+Builder)](https://git.io/typing-svg)
-  
-  <p>
-    <em>
-      "Turning complex problems into elegant AI solutions" 🚀
-    </em>
-  </p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/65kshat)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat.sohni.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/65kshat)
+# 👋 Hey, I'm Akshat Sohni
+
+### 🤖 AI/ML Engineer • Computer Vision • Generative AI
+
+<p>
+  <em>Building intelligent systems that turn ideas into working products.</em>
+</p>
+
+<p>
+  <a href="https://github.com/65kshat">
+    <img src="https://img.shields.io/badge/GitHub-65kshat-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/65kshat">
+    <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Sohni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akshat.sohni.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Computer+Vision+Developer;LLM+%26+RAG+Builder;AI+Agent+Developer;Deep+Learning+Practitioner;Always+Building+Something+New" />
+
 </div>
 
 ---
 
-## 🎯 What I'm Building
+## 🧠 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Akshat Sohani"
-        self.role = "AI/ML Engineer"
-        self.focus_areas = [
-            "Machine Learning", "Computer Vision", "Deep Learning",
-            "NLP", "LLMs", "RAG Systems"
-        ]
-        self.current_learning = ["AWS Cloud", "MLOps", "Production AI"]
-        self.collaboration_interests = [
-            "Open Source AI", "ML Research", "CV Projects", "NLP Applications"
-        ]
-    
-    def get_expertise(self):
-        return {
-            "languages": ["Python", "Java", "JavaScript", "R"],
-            "frameworks": ["PyTorch", "TensorFlow", "Keras", "scikit-learn"],
-            "tools": ["Flask", "Streamlit", "Git", "REST APIs", "Docker"],
-            "data_science": ["NumPy", "Pandas", "Matplotlib", "Plotly", "SciPy"]
-        }
-    
-    def mission(self):
-        return "Building AI solutions that solve real-world problems 🌍"
+I'm an **AI/ML Engineer focused on building practical AI systems**, from training machine-learning models to turning them into usable applications.
+
+My work spans **Computer Vision, Deep Learning, NLP, LLM applications, RAG systems, and AI agents**.
+
+I enjoy working across the entire pipeline:
+
+```text
+Problem
+   ↓
+Data → Preprocessing → Model → Evaluation
+   ↓
+LLM / RAG / Agents
+   ↓
+API → Application → Deployment
+   ↓
+Real-world AI System 🚀
+```
+
+I'm particularly interested in systems where **machine learning meets software engineering** — not just training a model, but actually building something people can use.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 I.R.I.S.
+
+**Intelligent AI Assistant**
+
+An AI assistant combining local and online models with a modular architecture for conversational AI and tool-based workflows.
+
+**Focus:**
+`LLMs` `AI Agents` `Tool Calling` `Python` `Streamlit`
+
+</td>
+
+<td width="50%">
+
+### 🎓 EduLeap
+
+**AI Tutoring for Learning-Disadvantaged Children**
+
+An AI-powered educational system designed to provide personalized learning support using ML and LLM technologies.
+
+**Focus:**
+`Machine Learning` `LLMs` `NLP` `Education AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔬 Cancer Detection
+
+**Computer Vision / Medical Imaging**
+
+A deep-learning based computer vision project focused on detecting cancer-related patterns from medical imagery.
+
+**Focus:**
+`Computer Vision` `CNNs` `Deep Learning` `OpenCV`
+
+</td>
+
+<td width="50%">
+
+### 💬 FAQ Intelligence
+
+**AI-Powered FAQ System**
+
+A question-answering system designed to understand user queries and retrieve relevant information intelligently.
+
+**Focus:**
+`NLP` `Embeddings` `Semantic Search` `Python`
+
+</td>
+</tr>
+</table>
+
+> 🚧 More projects are continuously being built, experimented with, and refined.
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,r&theme=dark" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+</p>
+
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Model Training` • `Model Evaluation`
+
+### 🧠 Generative AI
+
+<p>
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square\&logo=openai\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5B21B6?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-2563EB?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-0891B2?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-059669?style=flat-square)
+
+</p>
+
+### 📊 Data & Scientific Computing
+
+<p>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square\&logo=plotly\&logoColor=white)
+
+</p>
+
+### 🛠️ Development & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,flask,streamlit,aws&theme=dark" />
+</p>
+
+`REST APIs` • `Git/GitHub` • `Docker` • `Streamlit` • `Flask` • `AWS` • `Model Serving`
+
+---
+
+## 🔍 Areas I Work With
+
+```text
+Artificial Intelligence
+├── Machine Learning
+│   ├── Classification
+│   ├── Regression
+│   ├── Feature Engineering
+│   └── Model Evaluation
+│
+├── Deep Learning
+│   ├── CNNs
+│   ├── Computer Vision
+│   └── Neural Networks
+│
+├── Generative AI
+│   ├── Large Language Models
+│   ├── Prompt Engineering
+│   ├── RAG
+│   ├── Embeddings
+│   └── Vector Search
+│
+├── AI Agents
+│   ├── Tool Calling
+│   ├── Function Calling
+│   ├── Agentic Workflows
+│   ├── MCP
+│   └── Memory Systems
+│
+└── AI Engineering
+    ├── APIs
+    ├── Model Serving
+    ├── Docker
+    ├── Evaluation
+    └── Deployment
 ```
 
 ---
 
-## 💡 What I'm Up To
+## 🧪 Currently Exploring
 
-- 🔭 **Currently Working On:** Advanced ML/CV projects with Python & PyTorch
-- 🌱 **Learning Journey:** AWS Cloud Architecture, Large Language Models (LLMs), RAG Systems
-- 🤝 **Looking to Collaborate On:** Open-source AI projects, ML research, innovative solutions
-- 💬 **Happy to Help With:** Python, PyTorch, ML, Computer Vision, NLP, Flask, Streamlit
-- 🎯 **2025 Goals:** Deploy production-ready AI applications, contribute to major OSS projects
-- ⚡ **Fun Fact:** I transform coffee ☕ into machine learning models
-
----
-
-## 🛠️ Tech Arsenal
-
-### Languages
-![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-Intermediate-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/R-Intermediate-%23276DC3?style=flat-square&logo=r&logoColor=white)
-
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Expert-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Advanced-%23D00000?style=flat-square&logo=Keras&logoColor=white)
-
-### Data Science & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-Expert-%23013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-%23150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Expert-%23ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-Advanced-%233F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-Expert-%23F05033?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Advanced-%23000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+* ☁️ **AWS & Cloud AI**
+* 🧠 **Advanced LLM Applications**
+* 🔗 **RAG & Agentic Architectures**
+* 🛠️ **MCP & Tool-Based AI**
+* 📦 **MLOps & Production AI**
+* ⚡ **AI Inference & Latency Optimization**
+* 📊 **LLM Evaluation & Guardrails**
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=65kshat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com/?user=65kshat&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=65kshat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=65kshat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=65kshat&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=65kshat&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=65kshat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=65kshat&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=65kshat&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
 
----
-
-## 💭 Daily Inspiration
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
 </div>
 
 ---
 
-## 📈 Visitor Count
+## 📊 Contribution Activity
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=65kshat&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-  ---
-  
-  ### 💬 Let's Connect and Build Something Amazing!
-  
-  <sub>🚀 Open to new opportunities and collaborations</sub>
-  <br>
-  <sub>💼 Portfolio available upon request</sub>
-  <br>
-  <sub>⚡ Always excited to discuss new AI ideas</sub>
-  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=65kshat&theme=react-dark&hide_border=true&area=true" />
+
 </div>
 
-<!-- Created by Akshat Sohani -->
-```
+---
 
-## Key Improvements Made:
+## 💡 How I Like to Build
 
-### 🎨 **Visual Enhancements**
-- Added animated typing SVG with name and roles
-- Used a cohesive dark theme with `radical` color scheme
-- Added emojis and icons for better visual appeal
-- Centered important elements for better focus
+> **Don't just build a model. Build the system around it.**
 
-### 📝 **Content Improvements**
-- Created a creative Python code block showcasing your skills
-- Added skill level indicators (Expert/Advanced/Intermediate)
-- Organized tech stack into clear categories
-- Added a mission statement
+I like taking projects from:
 
-### 🏆 **Professional Touches**
-- Added GitHub profile trophies
-- Enhanced visitor counter with custom colors
-- Added clear call-to-action for networking
-- Included "Powered by" attribution
+**Idea → Data → Model → Intelligence → Interface → Deployment**
 
-### 🔧 **Technical Upgrades**
-- Cleaner stats presentation with custom titles
-- Added date formatting to streak stats
-- Improved badges with skill levels
-- Added typing animation for engagement
+The most interesting problems, to me, are the ones where AI has to interact with the rest of the software ecosystem.
 
-### 📈 **Structure & Flow**
-- Clear section hierarchy with visual breaks
-- Added "What I'm Building" section with code
-- Better organized goals and achievements
-- Added 2025 goals for future focus
+---
 
-This upgraded README will make your GitHub profile stand out and better showcase your AI/ML expertise! 🚀
+## 🤝 Let's Build Something
+
+I'm interested in collaborating on:
+
+* 🤖 AI / ML projects
+* 👁️ Computer Vision
+* 🧠 Generative AI
+* 🔗 RAG & AI Agents
+* 🔬 ML Research
+* 🌐 AI-powered applications
+* 🌱 Open-source projects
+
+<div align="center">
+
+### 🚀 Have an idea? Let's turn it into something real.
+
+<br>
+
+<a href="mailto:akshat.sohni.dev@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Build%20Together-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/65kshat">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=65kshat\&style=flat-square\&color=blueviolet\&label=Profile+Views)
+
+<sub>⚡ Building. Learning. Experimenting. Deploying.</sub>
+
+<br>
+
+<sub>© Akshat Sohni</sub>
+
+</div>

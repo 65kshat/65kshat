@@ -296,19 +296,6 @@ is part of the process.
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img
-  src="https://ghstats.dev/api/card?username=65kshat&theme=tokyonight"
-  alt="GitHub Statistics"
-/>
-
-</div>
-
----
-
 ## 💡 How I Like to Build
 
 > **Don't just build a model. Build the system around it.**

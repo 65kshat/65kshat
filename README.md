@@ -28,13 +28,15 @@
 
 ## 🧠 About Me
 
-I'm an **AI/ML Engineer focused on building practical AI systems**, from training machine-learning models to turning them into usable applications.
+I'm an **AI/ML Engineer focused on building practical AI systems**, 
+from training machine-learning models to turning them into usable applications.
 
-My work spans **Computer Vision, Deep Learning, NLP, LLM applications, RAG systems, and AI agents**.
+My work spans **Computer Vision, Deep Learning, NLP, LLM applications, 
+RAG systems, and AI agents**.
 
 I enjoy working across the entire pipeline:
 
-```text
+
 Problem
    ↓
 Data → Preprocessing → Model → Evaluation
@@ -44,9 +46,10 @@ LLM / RAG / Agents
 API → Application → Deployment
    ↓
 Real-world AI System 🚀
-```
 
-I'm particularly interested in systems where **machine learning meets software engineering** — not just training a model, but actually building something people can use.
+I'm particularly interested in systems where **machine learning meets
+software engineering** — not just training a model, but actually building
+something people can use.
 
 ---
 
@@ -54,15 +57,18 @@ I'm particularly interested in systems where **machine learning meets software e
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🧠 I.R.I.S.
 
 **Intelligent AI Assistant**
 
-An AI assistant combining local and online models with a modular architecture for conversational AI and tool-based workflows.
+An AI assistant combining local and online models with a modular architecture
+for conversational AI and tool-based workflows.
 
-**Focus:**
+**Focus**
+
 `LLMs` `AI Agents` `Tool Calling` `Python` `Streamlit`
 
 </td>
@@ -73,24 +79,30 @@ An AI assistant combining local and online models with a modular architecture fo
 
 **AI Tutoring for Learning-Disadvantaged Children**
 
-An AI-powered educational system designed to provide personalized learning support using ML and LLM technologies.
+An AI-powered educational system designed to provide personalized learning
+support using ML and LLM technologies.
 
-**Focus:**
+**Focus**
+
 `Machine Learning` `LLMs` `NLP` `Education AI`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🔬 Cancer Detection
 
 **Computer Vision / Medical Imaging**
 
-A deep-learning based computer vision project focused on detecting cancer-related patterns from medical imagery.
+A deep-learning based computer vision project focused on detecting
+cancer-related patterns from medical imagery.
 
-**Focus:**
+**Focus**
+
 `Computer Vision` `CNNs` `Deep Learning` `OpenCV`
 
 </td>
@@ -101,12 +113,15 @@ A deep-learning based computer vision project focused on detecting cancer-relate
 
 **AI-Powered FAQ System**
 
-A question-answering system designed to understand user queries and retrieve relevant information intelligently.
+A question-answering system designed to understand user queries and
+retrieve relevant information intelligently.
 
-**Focus:**
+**Focus**
+
 `NLP` `Embeddings` `Semantic Search` `Python`
 
 </td>
+
 </tr>
 </table>
 
@@ -128,7 +143,8 @@ A question-answering system designed to understand user queries and retrieve rel
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 </p>
 
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Model Training` • `Model Evaluation`
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP`
+`Model Training` • `Feature Engineering` • `Model Evaluation`
 
 ### 🧠 Generative AI
 
@@ -164,14 +180,15 @@ A question-answering system designed to understand user queries and retrieve rel
 <img src="https://skillicons.dev/icons?i=git,docker,flask,streamlit,aws&theme=dark" />
 </p>
 
-`REST APIs` • `Git/GitHub` • `Docker` • `Streamlit` • `Flask` • `AWS` • `Model Serving`
+`REST APIs` • `Git/GitHub` • `Docker` • `Streamlit`
+`Flask` • `AWS` • `Model Serving`
 
 ---
 
 ## 🔍 Areas I Work With
 
-```text
 Artificial Intelligence
+│
 ├── Machine Learning
 │   ├── Classification
 │   ├── Regression
@@ -203,8 +220,6 @@ Artificial Intelligence
     ├── Docker
     ├── Evaluation
     └── Deployment
-```
-
 ---
 
 ## 🧪 Currently Exploring
@@ -219,27 +234,40 @@ Artificial Intelligence
 
 ---
 
-## 📈 GitHub Analytics
+## 💭 A Little Perspective
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=65kshat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+### *“A person who never made a mistake never tried anything new.”*
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=65kshat&theme=radical&hide_border=true" />
+**— Often attributed to Albert Einstein**
 
-<br><br>
+<br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=65kshat&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+<sub>
+Every failed experiment, broken model, unexpected result, and debugging session
+is part of the process.
+</sub>
+
+<br>
+
+<sub>🚀 Build → Break → Learn → Improve → Repeat</sub>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=65kshat&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=65kshat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://streak-stats.demolab.com/?user=65kshat&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+<br><br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=65kshat&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -255,6 +283,16 @@ Artificial Intelligence
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=65kshat&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
 ## 💡 How I Like to Build
 
 > **Don't just build a model. Build the system around it.**
@@ -263,7 +301,8 @@ I like taking projects from:
 
 **Idea → Data → Model → Intelligence → Interface → Deployment**
 
-The most interesting problems, to me, are the ones where AI has to interact with the rest of the software ecosystem.
+The most interesting problems, to me, are the ones where AI has to interact
+with the rest of the software ecosystem.
 
 ---
 
@@ -300,6 +339,8 @@ I'm interested in collaborating on:
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=65kshat\&style=flat-square\&color=blueviolet\&label=Profile+Views)
+
+<br>
 
 <sub>⚡ Building. Learning. Experimenting. Deploying.</sub>
 
